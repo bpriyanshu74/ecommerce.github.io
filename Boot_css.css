@@ -1,0 +1,54 @@
+ .footer_height{
+                    padding-right:10%;
+                    padding-left:20%
+            }
+            
+ .jumb{
+                
+                margin-top: 80px;
+                padding-bottom: 50px;
+                padding-left:30px;
+           }
+  
+  .row_style{
+                margin-left:38%;
+           }
+      
+    .centering{
+                margin-left: 35%;
+                margin-right: 35%
+            }
+            .marg{
+                margin-bottom: 50px;
+                    padding-top: 0px;
+                    
+            }
+            
+            .nav_marg{
+                margin-top: 60px
+            }
+     
+            .pad{
+                margin-top: 100px;
+                margin-left: 400px;
+            }
+            
+            #banner_image{
+                    padding-top: 75px;
+                    padding-bottom: 50px;
+                        text-align: center;
+                         color: #f8f8f8;
+                   background: url("Img/intro-bg_1.jpg");
+                   background-size: cover;
+                 }
+       
+                 #banner_content{
+                     
+                     padding-top: 6%;
+                     padding-bottom: 6%;
+                         margin-top: 10%;
+                         margin-bottom: 12%;
+                         margin-left: 20%;
+                         background-color: rgba(0, 0, 0, 0.7);
+                             max-width: 660px;
+                 }
